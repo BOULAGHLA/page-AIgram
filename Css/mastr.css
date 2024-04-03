@@ -45,16 +45,19 @@ aside {
   width: 200px;
   gap: 20px;
   align-items: center;
+  
 }
 
 .menu1-text {
   color: white;
+
 }
 
 #menu-sec {
   display: flex;
   align-items: center;
   gap: 15px;
+  
 }
 
 #text {
@@ -66,7 +69,8 @@ aside {
   flex-direction: column;
   justify-content: space-around;
   height: 100px;
-  padding: 50px 0px;
+  padding: 50px 0px ;
+  
 }
 
 #side-line {
